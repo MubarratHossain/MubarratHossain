@@ -16,15 +16,11 @@
   <a href="https://www.facebook.com/ezab.dark/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
+  <a href="mailto:tahsinezab97@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
 </div>
 
----
-
-### 📧 Contact
-
-You can reach me at my email: [tahsinezab97@gmail.com](mailto:tahsinezab97@gmail.com)
-
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MubarratHossain.MubarratHossain&" />
@@ -36,7 +32,7 @@ You can reach me at my email: [tahsinezab97@gmail.com](mailto:tahsinezab97@gmail
 
 🔭 I’m working as an undergraduate student, focusing on building skills in web development and creating small full-stack projects.  
 📚 I'm currently learning MongoDB, Express.js, JWT, and Node.js to enhance my expertise in full-stack development.  
-⚡ In my free time, I enjoy watching travel vlogs, web development tutorials, and gaming content on YouTube.
+⚡ In my free time, I enjoy watching travel vlogs, web development tutorials, and listening to Quran recitation on YouTube.
 
 ---
 
