@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.ibb.co.com/RC68hk1/Welcome-to-My-Git-Hub-Hello-I-m-Mubarrat-Hossain-a-passionate-junior-frontend-developer-eager-to-kic.png"  />
+  <img height="" src="https://i.ibb.co.com/88CrJV8/Welcome-to-My-Git-Hub-Hello-I-m-Mubarrat-Hossain-a-passionate-junior-frontend-developer-eager-to-kic.png"  />
 </div>
 
 ###
@@ -66,6 +66,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MubarratHossain/MubarratHossain/output/snake.svg" alt="Snake animation" />
 
-###
